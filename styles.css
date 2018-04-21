@@ -42,3 +42,9 @@ div.transbox p {
   color: #000000;
 }
 
+div.card-group {
+		  margin: 30px;
+	background-color: #ffffff; 
+	border: 1px solid black;
+	opacity:0.96;
+}
